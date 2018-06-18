@@ -1,3 +1,4 @@
+#15816007 Minato Ishida
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.lines as lines
